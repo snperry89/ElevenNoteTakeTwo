@@ -1,0 +1,16 @@
+D:\ElevenFiftyProjects\ElevenNoteTakeTwo\ElevenNote.Models\bin\Debug\ElevenNote.Models.dll.config
+D:\ElevenFiftyProjects\ElevenNoteTakeTwo\ElevenNote.Models\bin\Debug\ElevenNote.Models.dll
+D:\ElevenFiftyProjects\ElevenNoteTakeTwo\ElevenNote.Models\bin\Debug\ElevenNote.Models.pdb
+D:\ElevenFiftyProjects\ElevenNoteTakeTwo\ElevenNote.Models\bin\Debug\EntityFramework.dll
+D:\ElevenFiftyProjects\ElevenNoteTakeTwo\ElevenNote.Models\bin\Debug\EntityFramework.SqlServer.dll
+D:\ElevenFiftyProjects\ElevenNoteTakeTwo\ElevenNote.Models\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\ElevenFiftyProjects\ElevenNoteTakeTwo\ElevenNote.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ElevenFiftyProjects\ElevenNoteTakeTwo\ElevenNote.Models\bin\Debug\EntityFramework.xml
+D:\ElevenFiftyProjects\ElevenNoteTakeTwo\ElevenNote.Models\bin\Debug\EntityFramework.SqlServer.xml
+D:\ElevenFiftyProjects\ElevenNoteTakeTwo\ElevenNote.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\ElevenFiftyProjects\ElevenNoteTakeTwo\ElevenNote.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ElevenFiftyProjects\ElevenNoteTakeTwo\ElevenNote.Models\obj\Debug\ElevenNote.Models.csprojAssemblyReference.cache
+D:\ElevenFiftyProjects\ElevenNoteTakeTwo\ElevenNote.Models\obj\Debug\ElevenNote.Models.csproj.CoreCompileInputs.cache
+D:\ElevenFiftyProjects\ElevenNoteTakeTwo\ElevenNote.Models\obj\Debug\ElevenNote.Models.csproj.CopyComplete
+D:\ElevenFiftyProjects\ElevenNoteTakeTwo\ElevenNote.Models\obj\Debug\ElevenNote.Models.dll
+D:\ElevenFiftyProjects\ElevenNoteTakeTwo\ElevenNote.Models\obj\Debug\ElevenNote.Models.pdb
